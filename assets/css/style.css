@@ -24,7 +24,7 @@ a {
     }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Satisfy", sans-serif;
+    font-family: 'Abril Fatface', cursive;
 }
 
 /*--------------------------------------------------------------
@@ -127,9 +127,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  padding: 2px;
+  padding: 10px;
   margin: 0;
-  max-height: 70px;
+  max-height: 65px;
 }
 
 /*--------------------------------------------------------------
